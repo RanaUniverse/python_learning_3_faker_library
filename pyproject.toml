@@ -1,0 +1,9 @@
+[project]
+name = "python-learning-3-faker-library"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.0"
+dependencies = [
+    "faker>=30.8.0",
+]
